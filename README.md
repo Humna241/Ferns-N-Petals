@@ -19,6 +19,7 @@ This report provides a comprehensive analysis of sales performance. Insights der
 
 **Revenue by Occasion:**
 
+
 **Top Occasions:** Anniversary, Holi, Raksha Bandhan (₹600k–₹700k range)
 
 **Lower Revenue:** Diwali, Valentine’s Day
@@ -28,6 +29,7 @@ This report provides a comprehensive analysis of sales performance. Insights der
 
 **Revenue by Category:**
 
+
 **Leading Categories:** Flowers, Soft Toys (>₹1M combined)
 
 **Moderate Performers:** Sweets, Cake
@@ -35,6 +37,7 @@ This report provides a comprehensive analysis of sales performance. Insights der
 **Low Performers:** Plants, Mugs
 
 **Top 5 Products by Revenue:**
+
 
 1. Magnum Set – Highest earner
 2. Quia Gift
@@ -46,6 +49,7 @@ This report provides a comprehensive analysis of sales performance. Insights der
 
 **Revenue Trends by Time:**
 
+
 By Hour:
 • **Peak hours:** 8 AM, 11 AM, 4 PM, 8 PM
 • ** Suggestion:** Push notifications during peak times
@@ -56,6 +60,7 @@ By Month:
 
 **Top Cities by Orders:**
 
+
 **Highest:** Ghaziabad, Kolkata, Hyderabad
 
 **Opportunities:** Bhavnagar, Bhilai Nagar
@@ -63,6 +68,7 @@ By Month:
 Use city-level targeting and localized promotions
 
 **Operational Insights:**
+
 
 • Delivery Time: 5.53 Days (needs improvement)
 • Suggest faster logistics or better slot planning
