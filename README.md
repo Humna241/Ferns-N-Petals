@@ -17,6 +17,7 @@ This report provides a comprehensive analysis of sales performance. Insights der
 
 • Average Delivery Time: 5.53 Days
 
+
 **Revenue by Occasion:**
 
 
@@ -36,6 +37,7 @@ This report provides a comprehensive analysis of sales performance. Insights der
 
 **Low Performers:** Plants, Mugs
 
+
 **Top 5 Products by Revenue:**
 
 
@@ -46,6 +48,7 @@ This report provides a comprehensive analysis of sales performance. Insights der
 5. Deserunt Box
 
 **Recommendation:** Bundle top products with lower-performing items
+
 
 **Revenue Trends by Time:**
 
@@ -58,6 +61,7 @@ By Month:
 • **Highest:** February, October
 • **Lowest:** March, April, July, August
 
+
 **Top Cities by Orders:**
 
 
@@ -66,6 +70,7 @@ By Month:
 **Opportunities:** Bhavnagar, Bhilai Nagar
 
 Use city-level targeting and localized promotions
+
 
 **Operational Insights:**
 
