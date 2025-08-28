@@ -18,7 +18,7 @@ This report provides a comprehensive analysis of sales performance. Insights der
 • Average Delivery Time: 5.53 Days
 
 
-**Revenue by Occasion:** \
+**Revenue by Occasion:** 
 
 
 **Top Occasions:** Anniversary, Holi, Raksha Bandhan (₹600k–₹700k range)
@@ -28,7 +28,7 @@ This report provides a comprehensive analysis of sales performance. Insights der
 **Opportunity:** Strengthen occasion-based campaigns
 
 
-**Revenue by Category:**\
+**Revenue by Category:**
 
 
 **Leading Categories:** Flowers, Soft Toys (>₹1M combined)
@@ -38,7 +38,7 @@ This report provides a comprehensive analysis of sales performance. Insights der
 **Low Performers:** Plants, Mugs
 
 
-**Top 5 Products by Revenue:**\
+**Top 5 Products by Revenue:**
 
 
 1. Magnum Set – Highest earner
@@ -47,23 +47,23 @@ This report provides a comprehensive analysis of sales performance. Insights der
 4. Harum Pack
 5. Deserunt Box
 
-**Recommendation:** Bundle top products with lower-performing items\
+**Recommendation:** Bundle top products with lower-performing items
 
 
-**Revenue Trends by Time:**\
+**Revenue Trends by Time:**
 
 
-By Hour:\
+By Hour:
 • **Peak hours:** 8 AM, 11 AM, 4 PM, 8 PM
 
 • ** Suggestion:** Push notifications during peak times
 
-By Month:\
+By Month:
 • **Highest:** February, October
 • **Lowest:** March, April, July, August
 
 
-**Top Cities by Orders:**\
+**Top Cities by Orders:**
 
 
 **Highest:** Ghaziabad, Kolkata, Hyderabad
@@ -73,7 +73,7 @@ By Month:\
 Use city-level targeting and localized promotions
 
 
-**Operational Insights:**\
+**Operational Insights:**
 
 
 • Delivery Time: 5.53 Days (needs improvement)
