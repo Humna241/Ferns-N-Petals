@@ -55,6 +55,7 @@ This report provides a comprehensive analysis of sales performance. Insights der
 
 By Hour:
 • **Peak hours:** 8 AM, 11 AM, 4 PM, 8 PM
+
 • ** Suggestion:** Push notifications during peak times
 
 By Month:
