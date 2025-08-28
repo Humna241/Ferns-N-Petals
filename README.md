@@ -18,8 +18,9 @@ This report provides a comprehensive analysis of sales performance. Insights der
 • Average Delivery Time: 5.53 Days
 
 
-**Revenue by Occasion:** 
 
+
+**Revenue by Occasion:** 
 
 **Top Occasions:** Anniversary, Holi, Raksha Bandhan (₹600k–₹700k range)
 
